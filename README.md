@@ -1,4 +1,4 @@
-# Versatile AI - Mutlifunctional Web Application
+# 🤖 Versatile AI - Mutlifunctional Web Application
 
 This project showcases the powerful capabilities of LLM's through a versatile and user-friendly interface. Developed with Streamlit and the Google Generative AI module, this app provides four core functionalities:
 
